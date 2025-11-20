@@ -13,6 +13,8 @@
 using namespace std;
 
 // Your Groq API Key
+//IMPORTANT: ADD API KEY WITH THIS LINK
+//https://console.groq.com/keys
 const string GROQ_API_KEY = "ENTER_KEY_HERE";
 const string GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions";
 
